@@ -1,10 +1,5 @@
 #!/bin/sh
 
-# Ameir Abdeldayem
-# http://www.ameir.net
-# You are free to modify and distribute this code,
-# so long as you keep my name and URL in it.
-
 # your MySQL server's name
 SERVER="localhost"
 
